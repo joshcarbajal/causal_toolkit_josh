@@ -1,3 +1,4 @@
+[![Tests](https://github.com/joshcarbajal/causal_toolkit_josh/workflows/Tests/badge.svg)](https://github.com/joshcarbajal/causal_toolkit_josh/actions)
 # causal-toolkit-josh
 
 A Python package for causal inference methods.
